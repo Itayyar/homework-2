@@ -1,6 +1,6 @@
 -- Homework #2 - PL/SQL Programming
--- Student: [Your Name Here]
--- University ID: [Your University ID Here]
+-- Student: [ibrahim mashhour ismail]
+-- University ID: [202311475]
 
 -- ===============================
 -- Q1.1 – Add a declarative section
